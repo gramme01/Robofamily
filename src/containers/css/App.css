@@ -3,7 +3,9 @@
 }
 
 h1 {
-	font-size: 4vw;
+	font-size: 7vw;
+	letter-spacing: 4px;
 	margin: 4% 0 2.5%;
 	color: #ebfc7c;
+	font-family: "Rajdhani", sans-serif;
 }

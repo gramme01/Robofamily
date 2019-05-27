@@ -5,6 +5,11 @@
 	width: 20%;
 	padding: 0;
 	margin: 2.5%;
+	transition: all 500ms;
+}
+
+.card-container:hover {
+	box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
 }
 
 .card-container img {
