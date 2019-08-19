@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Robofamily/static/css/main.5bafb5d6.chunk.css",
-    "main.js": "/Robofamily/static/js/main.1e6e3d96.chunk.js",
-    "main.js.map": "/Robofamily/static/js/main.1e6e3d96.chunk.js.map",
+    "main.js": "/Robofamily/static/js/main.9ca2be49.chunk.js",
+    "main.js.map": "/Robofamily/static/js/main.9ca2be49.chunk.js.map",
     "runtime~main.js": "/Robofamily/static/js/runtime~main.37652d98.js",
     "runtime~main.js.map": "/Robofamily/static/js/runtime~main.37652d98.js.map",
-    "static/js/2.65aa1cca.chunk.js": "/Robofamily/static/js/2.65aa1cca.chunk.js",
-    "static/js/2.65aa1cca.chunk.js.map": "/Robofamily/static/js/2.65aa1cca.chunk.js.map",
+    "static/js/2.59e6faec.chunk.js": "/Robofamily/static/js/2.59e6faec.chunk.js",
+    "static/js/2.59e6faec.chunk.js.map": "/Robofamily/static/js/2.59e6faec.chunk.js.map",
     "index.html": "/Robofamily/index.html",
-    "precache-manifest.c2e578a6e6a83fdb2b4f6edb88d10c0d.js": "/Robofamily/precache-manifest.c2e578a6e6a83fdb2b4f6edb88d10c0d.js",
+    "precache-manifest.570ee78da263b047305f7e0d24f635ee.js": "/Robofamily/precache-manifest.570ee78da263b047305f7e0d24f635ee.js",
     "service-worker.js": "/Robofamily/service-worker.js",
     "static/css/main.5bafb5d6.chunk.css.map": "/Robofamily/static/css/main.5bafb5d6.chunk.css.map"
   }
